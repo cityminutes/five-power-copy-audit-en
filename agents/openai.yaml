@@ -1,0 +1,4 @@
+interface:
+  display_name: "Five-Power Copy Audit"
+  short_description: "Audit commercial copy across five professional dimensions"
+  default_prompt: "Use $five-power-copy-audit-en to audit this copy and recommend specific improvements."
